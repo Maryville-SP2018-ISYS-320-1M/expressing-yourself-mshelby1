@@ -7,8 +7,8 @@
 /*
  	Your predicted values for the expressions
 	1. 8 correct
-	2. 6 correct
-	3. 3 correct
+	2. 11 correct
+	3. 12 correct
 	4. 4 correct
 	5. 2 correct
 	6. 11 correct
